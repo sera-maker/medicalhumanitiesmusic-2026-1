@@ -10,7 +10,7 @@ ICD: War(as a social disease)
 # War Requiem, Op.66
 
 Benjamin Britten’s *War Requiem* presents war as a “social disease” and reveals the experience of human suffering, that is, “illness,” through sound. As discussed in class, medicine focuses on objective “disease,” whereas medical humanities focus on the narrative and experience of those who suffer from it. This work expresses that distinction musically by juxtaposing the collective language of death in the Latin Requiem with the individual voice of suffering in Wilfred Owen’s war poetry. [When listening to the music](https://youtu.be/pjV-j-wJ7LI?si=4rkkmPILNoXZg38b), the phrase “Dies irae, dies illa” expresses collective destruction and fear. Here, "Dies irae, dies illa" carries the meaning of "the day of wrath, that very day". The line “I am the enemy you killed, my friend” in the final movement breaks down the boundary between the enemy and the self, showing that the suffering of war cannot be reduced to an individual experience. Furthermore, as discussed in class, pain is inherently difficult to verbalize, and the dissonance and fragmented structure of this work allow the listener to physically experience suffering rather than simply explaining it. Ultimately, War Requiem functions not by representing disease itself, but as a musical “illness narrative” that reveals how humans experience and perceive suffering.
-<img src="han-sumin.PNG" alt="war requiem" style="width:25%;" />
+<img src="han-sumin.PNG" alt="war requiem" style="width:75%;" />
 
 # 전쟁 레퀴엠, 작품 번호 66
 
